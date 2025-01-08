@@ -1,0 +1,29 @@
+Random Forest Model Training and Evaluation
+
+Best Parameters:
+{'max_depth': 10, 'min_samples_leaf': 1, 'min_samples_split': 5, 'n_estimators': 100}
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.85      0.75      0.80       129
+           1       0.77      0.86      0.81       123
+
+    accuracy                           0.81       252
+   macro avg       0.81      0.81      0.81       252
+weighted avg       0.81      0.81      0.81       252
+
+Accuracy: 0.8055555555555556
+
+Top 10 Features:
+           Feature  Importance
+6   work_interfere    0.322950
+5   family_history    0.111455
+11    care_options    0.058587
+3            state    0.050400
+10        benefits    0.039637
+2          Country    0.037952
+1           Gender    0.036919
+7     no_employees    0.036171
+15           leave    0.034143
+18       coworkers    0.025558

@@ -1,0 +1,13 @@
+2025-01-07 20:11:32,015 - INFO - Starting clustering script execution.
+2025-01-07 20:11:32,031 - INFO - Dataset loaded successfully.
+2025-01-07 20:11:32,031 - INFO - Filling missing values for 'self_employed' and 'work_interfere' columns.
+2025-01-07 20:11:32,034 - INFO - Filtered workplace-related features for clustering.
+2025-01-07 20:11:32,034 - INFO - Encoding categorical variables using LabelEncoder.
+2025-01-07 20:11:32,041 - INFO - Scaling data using StandardScaler.
+2025-01-07 20:11:32,045 - INFO - Reducing data dimensions using PCA.
+2025-01-07 20:11:32,051 - INFO - Applying KMeans clustering with 4 clusters.
+2025-01-07 20:11:32,370 - INFO - Visualizing and saving cluster plot.
+2025-01-07 20:11:45,203 - INFO - Cluster visualization saved as C:\Users\steve\Documents\Github\MindTech\cluster_visualization.png.
+2025-01-07 20:11:45,203 - INFO - Analyzing cluster centers.
+2025-01-07 20:11:45,208 - INFO - Cluster centers saved as C:\Users\steve\Documents\Github\MindTech\cluster_centers.txt.
+2025-01-07 20:11:45,232 - INFO - Clustering script execution completed.
